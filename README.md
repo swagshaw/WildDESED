@@ -58,6 +58,6 @@ We welcome contributions to the WildDESED dataset! Please open an issue or submi
 This dataset is based on the [AudioSet](https://research.google.com/audioset/index.html) provided by Google Inc. under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/), which has been modified by Yang Xiao. The modifications include the addition of noise to the DESED dataset to create a distinct dataset. 
 
 ## References
-[1] Turpault, Nicolas, et al. "Sound event detection in domestic environments with weakly labeled data and soundscape synthesis."
+[1] N. Turpault, et al. "Sound event detection in domestic environments with weakly labeled data and soundscape synthesis", (DCASE 2019 Workshop). 
 
-[2] J. F. Gemmeke, et al. "Audio Set: An Ontology and Human-Labeled Dataset for Audio Events."
+[2] J. F. Gemmeke, et al. "Audio Set: An Ontology and Human-Labeled Dataset for Audio Events", (ICASSP 2017).
