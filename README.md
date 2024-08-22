@@ -28,8 +28,11 @@ The dataset includes a variety of noise types categorized into four groups based
 Each scenario combines these noises with target sound classes from the DESED dataset, ensuring that the resulting soundscapes are both realistic and challenging for SED systems.
 
 ## Scenario Examples
-Morning Routine: Simulates a typical morning with target sounds like a blender, combined with background noises such as light rain, refrigerator humming, and TV playing.
-Home Office: Represents a work-from-home environment with speech as the target sound, accompanied by car passing by, fan noise, and footsteps.
+Here are visual representations of two different scenarios:
+
+| Morning Routine | Pet Care |
+|-----------------|-------------|
+| ![Morning Routine](./morning.png) | ![Pet Care](./pet.png) |
 
 ## Dataset Download
 The dataset is available for download here (We will upload it to zenodo after the proceeding). Please ensure to read and comply with the dataset's licensing terms before use.
