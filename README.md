@@ -9,7 +9,7 @@ WildDESED is an extension of the original [DESED dataset](https://project.inria.
 - Rich Acoustic Variety: Background noises include bird chirping, car passing by, fan noise, and many more, integrated to simulate real-life domestic environments.
 
 ## Dataset Structure
-The WildDESED dataset is organized into the following subsets:
+The WildDESED dataset is organized into the following subsets same as the original DESED dataset:
 
 1. Synth Training Set: 10,000 synthetic recordings with strong annotations.
 2. Synth Validation Set: 2,500 synthetic recordings for model validation.
@@ -38,18 +38,25 @@ Here are visual representations of two different scenarios:
 The dataset is available for download here (We will upload it to zenodo after the proceeding). Please ensure to read and comply with the dataset's licensing terms before use.
 
 ## Citation
-If you use WildDESED in your research, please cite our paper:
+If you use WildDESED dataset in your research, please cite our paper:
+Y. Xiao and R. K. Das, "WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System", in Proceedings of the Detection and Classification of Acoustic Scenes and Events 2024 Workshop (DCASE2024), 2024.
+
 ```bibtex
 @inproceedings{Xiao2024WildDESED,
   title={WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System},
   author={Yang Xiao and Rohan Kumar Das},
-  booktitle={"Proceedings of the Detection and Classification of Acoustic Scenes and Events 2024 Workshop (DCASE2024)},
+  booktitle={Proceedings of the Detection and Classification of Acoustic Scenes and Events 2024 Workshop (DCASE2024)},
   year={2024},
 }
 
 ```
+## 
 ## Contributing
 We welcome contributions to the WildDESED dataset! Please open an issue or submit a pull request if you have suggestions or improvements. You can also [send me an email](mailto:yxiao009+github@e.ntu.edu.sg). 
 
 ## License
 This dataset is based on the [AudioSet](https://research.google.com/audioset/index.html) provided by Google Inc. under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/), which has been modified by Yang Xiao. The modifications include the addition of noise to the DESED dataset to create a distinct dataset. 
+
+## References
+[1] Turpault, Nicolas, et al. "Sound event detection in domestic environments with weakly labeled data and soundscape synthesis."
+[2] J. F. Gemmeke, et al. "Audio Set: An Ontology and Human-Labeled Dataset for Audio Events."
