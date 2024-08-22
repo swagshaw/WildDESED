@@ -59,4 +59,5 @@ This dataset is based on the [AudioSet](https://research.google.com/audioset/ind
 
 ## References
 [1] Turpault, Nicolas, et al. "Sound event detection in domestic environments with weakly labeled data and soundscape synthesis."
+
 [2] J. F. Gemmeke, et al. "Audio Set: An Ontology and Human-Labeled Dataset for Audio Events."
