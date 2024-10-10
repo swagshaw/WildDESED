@@ -39,7 +39,7 @@ The dataset is available for download [here](https://zenodo.org/records/13357912
 
 ## Citation
 If you use WildDESED dataset in your research, please cite our paper:
-Y. Xiao and R. K. Das, "WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System", in Proceedings of the Detection and Classification of Acoustic Scenes and Events 2024 Workshop (DCASE2024), 2024.
+Y. Xiao and R. K. Das, ["WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System"](https://arxiv.org/abs/2407.03656), in Proceedings of the Detection and Classification of Acoustic Scenes and Events 2024 Workshop (DCASE2024), 2024.
 
 ```bibtex
 @inproceedings{Xiao2024WildDESED,
