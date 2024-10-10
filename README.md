@@ -35,7 +35,7 @@ Here are visual representations of two different scenarios:
 | ![Morning Routine](./morning.png) | ![Pet Care](./pet.png) |
 
 ## Dataset Download
-The dataset is available for download here (We will upload it to zenodo after the proceeding). Please ensure to read and comply with the dataset's licensing terms before use.
+The dataset is available for download [here](https://zenodo.org/records/13357912). Please ensure to read and comply with the dataset's licensing terms before use.
 
 ## Citation
 If you use WildDESED dataset in your research, please cite our paper:
