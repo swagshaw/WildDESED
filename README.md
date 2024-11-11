@@ -2,7 +2,7 @@
 ## WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection
 Welcome to the WildDESED dataset repository! This dataset is designed to advance research in sound event detection (SED) within the challenging and diverse acoustic environments of domestic settings.
 ## Overview
-WildDESED is an extension of the original [DESED dataset](https://project.inria.fr/desed/), created to reflect a wider variety of domestic scenarios by incorporating complex and unpredictable background noises. These enhancements make WildDESED a powerful resource for developing and evaluating noise-robust SED systems. For more listenable examples of WildDESESD, please go check out our [[project page](https://swagshaw.github.io/projects/WILDDESED.html)].
+WildDESED is an extension of the original [DESED dataset](https://project.inria.fr/desed/), created to reflect a wider variety of domestic scenarios by incorporating complex and unpredictable background noises. These enhancements make WildDESED a powerful resource for developing and evaluating noise-robust SED systems. For more listenable examples of WildDESESD, please go check out our [project page](https://swagshaw.github.io/projects/WILDDESED.html).
 
 ## Key Features
 - Diverse Scenarios: The dataset includes eight domestic scenarios such as "Morning Routine" and "Home Office," designed using large language models (LLMs) to ensure realism.
