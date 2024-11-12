@@ -35,7 +35,26 @@ Here are visual representations of two different scenarios:
 | ![Morning Routine](./morning.png) | ![Pet Care](./pet.png) |
 
 ## Dataset Download
-The dataset is available for download [here](https://zenodo.org/records/13910598). Please ensure to read and comply with the dataset's licensing terms before use.
+The WildDESED dataset is available for download [here](https://zenodo.org/records/13910598). Please ensure to read and comply with the dataset's licensing terms before use. 
+
+## Training and Evaluation
+
+- Please first `pip install -r requirements.txt`
+
+**Without curriculum learning**: 
+
+```bash
+python train_sed.py
+```
+
+
+**With curriculum learning**: 
+
+```bash
+python train_sed_cl.py
+```
+
+**PS:** Please follow instructions in [DCASE 2024 Task 4](https://dcase.community/challenge2024/task-sound-event-detection-with-heterogeneous-training-dataset-and-potentially-missing-labels) to download the DESED. You may also download the [DESED](https://project.inria.fr/desed/) here.
 
 ## Citation
 If you use WildDESED dataset in your research, please cite our paper:
