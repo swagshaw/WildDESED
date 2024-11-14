@@ -62,9 +62,10 @@ Y. Xiao and R. K. Das, ["WildDESED: An LLM-Powered Dataset for Wild Domestic Env
 
 ```bibtex
 @inproceedings{Xiao2024WildDESED,
-  title={WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System},
+  title={{WildDESED}: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System},
   author={Yang Xiao and Rohan Kumar Das},
   booktitle={Proceedings of the Detection and Classification of Acoustic Scenes and Events 2024 Workshop (DCASE2024)},
+  pages = {196--200},
   year={2024},
 }
 
