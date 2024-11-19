@@ -35,7 +35,7 @@ Here are visual representations of two different scenarios:
 | ![Morning Routine](./morning.png) | ![Pet Care](./pet.png) |
 
 ## Dataset Download
-The WildDESED dataset is available for download [here](https://zenodo.org/records/13910598). Please ensure to read and comply with the dataset's licensing terms before use. 
+The WildDESED dataset is available for download [here](https://zenodo.org/records/14013803). Please ensure to read and comply with the dataset's licensing terms before use. 
 
 ## Training and Evaluation
 
@@ -62,9 +62,10 @@ Y. Xiao and R. K. Das, ["WildDESED: An LLM-Powered Dataset for Wild Domestic Env
 
 ```bibtex
 @inproceedings{Xiao2024WildDESED,
-  title={WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System},
+  title={{WildDESED}: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System},
   author={Yang Xiao and Rohan Kumar Das},
   booktitle={Proceedings of the Detection and Classification of Acoustic Scenes and Events 2024 Workshop (DCASE2024)},
+  pages = {196--200},
   year={2024},
 }
 
